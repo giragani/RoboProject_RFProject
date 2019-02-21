@@ -15,7 +15,7 @@ FaceBookLogin
 *** Variables ***
 ${url}                           https://www.facebook.com/ 
 ${url1}                          https://www.google.com/gmail/about/#
-@{usercredentials}               venkateshwarlu.girigani@gmail.com    Svenkat@125
+@{usercredentials}               venkateshwarlu.girigani@gmail.com    xxxxxx
 ${Browser}                       chrome
 @{CREDENTIALS}                   8106999519     
-&{LOGINDATA}                     password=svenkat125
+&{LOGINDATA}                     password=xxxxxx
